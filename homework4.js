@@ -1,4 +1,4 @@
-//Tyler Michels HW4
+// HW4
 //Date: 2/28/17
 
 function Ghost(color,x,y){
